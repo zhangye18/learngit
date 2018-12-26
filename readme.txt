@@ -1,4 +1,5 @@
-git is a version control system.
+git is a distributed version control system.
 git is free software.
 git config --global user.Name
 git config --global user.Email
+git status
