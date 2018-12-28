@@ -4,4 +4,5 @@ git config --global user.Name
 git config --global user.Email
 git status
 Git tracks changes of files.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
